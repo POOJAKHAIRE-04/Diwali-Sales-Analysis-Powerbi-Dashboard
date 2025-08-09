@@ -24,7 +24,7 @@ The dashboard provides interactive visuals to help businesses improve sales stra
 ---
 
 ## 📷 Dashboard Screenshot
-
+https://github.com/POOJAKHAIRE-04/Diwali-Sales-Analysis-Powerbi-Dashboard/tree/main/Screenshot
 
 ---
 
